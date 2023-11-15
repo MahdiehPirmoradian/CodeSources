@@ -1,0 +1,14 @@
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\bin\Debug\net7.0\InterfaceExample.exe
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\bin\Debug\net7.0\InterfaceExample.deps.json
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\bin\Debug\net7.0\InterfaceExample.runtimeconfig.json
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\bin\Debug\net7.0\InterfaceExample.dll
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\bin\Debug\net7.0\InterfaceExample.pdb
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.AssemblyInfoInputs.cache
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.AssemblyInfo.cs
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.dll
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\refint\InterfaceExample.dll
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.pdb
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\InterfaceExample.genruntimeconfig.cache
+D:\MY WORKS\Repositories\CodeSources\C#\InterfaceExample\obj\Debug\net7.0\ref\InterfaceExample.dll

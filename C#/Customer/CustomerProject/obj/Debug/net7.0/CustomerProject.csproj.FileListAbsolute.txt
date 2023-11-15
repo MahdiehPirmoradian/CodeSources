@@ -1,0 +1,14 @@
+D:\FRA-UAS\SECC\Customer\CustomerProject\bin\Debug\net7.0\CustomerProject.exe
+D:\FRA-UAS\SECC\Customer\CustomerProject\bin\Debug\net7.0\CustomerProject.deps.json
+D:\FRA-UAS\SECC\Customer\CustomerProject\bin\Debug\net7.0\CustomerProject.runtimeconfig.json
+D:\FRA-UAS\SECC\Customer\CustomerProject\bin\Debug\net7.0\CustomerProject.dll
+D:\FRA-UAS\SECC\Customer\CustomerProject\bin\Debug\net7.0\CustomerProject.pdb
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.AssemblyInfoInputs.cache
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.AssemblyInfo.cs
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.csproj.CoreCompileInputs.cache
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.dll
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\refint\CustomerProject.dll
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.pdb
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\CustomerProject.genruntimeconfig.cache
+D:\FRA-UAS\SECC\Customer\CustomerProject\obj\Debug\net7.0\ref\CustomerProject.dll

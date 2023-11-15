@@ -1,0 +1,14 @@
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\bin\Debug\net7.0\Calculator.exe
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\bin\Debug\net7.0\Calculator.deps.json
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\bin\Debug\net7.0\Calculator.runtimeconfig.json
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\bin\Debug\net7.0\Calculator.dll
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\bin\Debug\net7.0\Calculator.pdb
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfoInputs.cache
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.AssemblyInfo.cs
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.csproj.CoreCompileInputs.cache
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.dll
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\refint\Calculator.dll
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.pdb
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\Calculator.genruntimeconfig.cache
+D:\MY WORKS\Repositories\CodeSources\CodeSources\C#\Calculator\obj\Debug\net7.0\ref\Calculator.dll
